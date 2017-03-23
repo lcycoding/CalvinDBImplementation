@@ -1,5 +1,6 @@
 # Project Goal
 This Final project is aimed for the course **Cloud Database** in NTHU.
+
 Implementing part of the paper [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 
 ## Concept
