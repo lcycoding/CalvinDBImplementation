@@ -1,0 +1,3 @@
+# of txns during benchmark period: 0
+
+MICROBENCHMARK_TXN 0 avg latency: 0 ms

@@ -1,0 +1,9 @@
+# TODO
+
+## Server package
+- Check if we need refactoring profiler-related methods in VanillaDB.
+
+## File package
+- FileMgr should not know the position of the database and log directory.
+- FileMgr should not rebuild log files itself, it should provide a API for creating and deleting files.
+- FileMgr dosen't actually write a block to file during appending for now. This is a bug that should be fixed.
